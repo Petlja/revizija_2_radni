@@ -1,0 +1,16 @@
+id;k_short_name;k_matrix;k_name;k_name_ebas;k_unit;k_unit_ebas;k_code_iso
+1;SO2;air;Sulphur dioxide;sulphur_dioxide;ug.m-3;µg/m3;1
+5;PM10;aerosol;Particulate matter < 10 µm;pm10_mass;ug.m-3;µg/m3;24
+7;O3;air;Ozone;ozone;ug.m-3;µg/m3;8
+8;NO2;air;Nitrogen dioxide;nitrogen_dioxide;ug.m-3;µg/m3;3
+9;NOX;air;Nitrogen oxides;Nox;ug.m-3;µg/m3;35
+10;CO;air;Carbon monoxide;carbon_monoxide;mg.m-3;mg/m3;4
+20;B;air;Benzene;benzene;ug.m-3;µg/m3;V4
+21;Toluene;air;Toluene C6H5-CH3;toluene;ug.m-3;µg/m3;VQ
+32;THC (NM);air;Total non-methane hydrocarbons;not known in EBAS;ug C.m-3;;
+38;NO;air;Nitrogen monoxide;nitrogenmonoxide;ug.m-3;µg N/m3;2
+431;Ethyl benzene;air;Ethyl benzene C6H5-C2H5;ethylbenzene;ug.m-3;pptv;
+464;mp-Xylene;air;mp-Xylene mp-C6H4(CH3)2;mpxylene;ug.m-3;pptv;
+482;o-Xylene;air;o-Xylene o-C6H4-(CH3)2;oxylene;ug.m-3;pptv;
+6001;PM2.5;aerosol;Particulate matter < 2.5 µm;pm25_mass;ug.m-3;µg/m3;39
+6002;PM1;aerosol;Particulate matter < 1 µm;pm1_mass;ug.m-3;µg/m3;n.

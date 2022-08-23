@@ -1,0 +1,68 @@
+id;k_eoi_code;k_airbase_code;k_network_id;k_local_code;k_name;k_start_date;k_stop_date;latitude;longitude;altitude;aq_stationclassification;aq_areaclassification;k_char_of_zone;k_ozone_classification;k_main_emission_source;k_city;k_city_population;k_street_name;k_report
+1;RS1002A;RS0034A;1;0001;Kikinda Centar;2010-02-01;;45.821483;20.454008;78;background;urban;residential;suburban;Agriculture;Kikinda;38;Svetosavska bb;t
+2;RS1007A;RS0029A;1;1007;Novi Sad SPENS;2015-06-08;;45.245065;19.84119;78;traffic;urban;residential/commercial;;;Novi Sad;342;Bulevar oslobodjenja;t
+3;RS1008A;RS0031A;1;1008;Novi Sad Liman;2015-06-01;;45.238642;19.835704;81;background;urban;residential;urban;;Novi Sad ;342;Narodnog fronta 45;t
+4;RS1009A;RS0001A;1;1009;Beočin Centar;2015-07-02;;45.208386;19.721709;87;background;urban;residential/industrial;;;Beočin;15;Kralja Petra bb;t
+5;RS1010A;RS1010A;1;1010;Sremska Mitrovica;2015-07-02;;44.972185;19.609349;82;traffic;urban;residential/commercial;;;Sremska Mitrovica;86;;t
+6;RS1014A;RS0035A;1;1014A;Pančevo Sodara;2015-07-02;;44.862975;20.64429;80;industrial;urban;residential;;;Pančevo ;123;Naselje sodara;t
+7;RS1018A;RS0032A;1;1018A;Beograd Stari grad;2015-07-02;;44.82112;20.459113;103;background;urban;residential/commercial;urban;;Beograd ;1659;Visnjiceva 7a;t
+8;RS1019A;RS1019A;1;1019A;Beograd Pančevački most;2009-04-13;;44.817608;20.486829;94;traffic;urban;commercial/industrial;;;Beograd;1659;Bulevar despota Stefana;t
+9;RS1023A;RS0036A;1;1023A;Beograd Novi Beograd;2015-07-02;;44.803179;20.400152;74;background;urban;residential/commercial;urban;;Beograd;1659;Omladinskih brigada 35;t
+10;RS1025A;RS0028A;1;1025A;Beograd Mostar;2015-07-02;;44.798746;20.450184;83;traffic;urban;residential/commercial;urban;;Beograd;1659;Mostarska petlja bb;t
+11;RS1026A;RS0037A;1;1026A;Beograd Vračar;2015-07-02;;44.796959;20.475288;141;background;urban;residential/commercial;;;Beograd;1659;Orlovića Pavla 17;t
+12;RS1027A;RS1027A;1;1027A;Beograd Zeleno brdo;2008-11-17;;44.786488;20.521715;240;background;suburban;residential;suburban;;Beograd;1659;Ruže Jovanovića 27a;t
+13;RS1028A;RS1028A;1;1028A;Šabac;2015-07-02;;44.749781;19.693917;79;background;suburban;residential;;;Šabac;122;Popa Karana 2;t
+14;RS1030A;RS0038A;1;1030A;Kostolac;2015-07-02;;44.71749;21.173399;75;background;suburban;industrial;;;Kostolac;13;MZ Kostolac;t
+15;RS1032A;RS1032A;1;1032A;Smederevo Centar;2015-07-02;;44.664084;20.926729;79;background;urban;residential/commercial;;;Smederevo;110;Vojvode Đuše bb;t
+16;RS1033A;RS1033A;1;1033A;Obrenovac Centar;2015-07-02;;44.659478;20.204496;76;traffic;suburban;residential/commercial;;;Obrenovac;25;Kralja Aleksandra;t
+17;RS1034A;RS0039A;1;1034;Smederevo Carina;2015-07-02;;44.652336;20.931675;147;background;suburban;residential;;;Smederevo;110;Branka Krsmanovića bb;t
+18;RS1036A;RS1036A;1;1036A;Smederevo Radinac;2015-07-02;;44.618723;20.968773;82;industrial;suburban;residential/industrial;;;Smederevo;110;Dvorište crkve;f
+19;RS1037A;RS1037A;1;1037A;Smederevo Ralja;2015-07-02;;44.593587;20.971308;83;industrial;suburban;residential/industrial;;;Smederevo;110;Dvorište ambulante i škole;f
+20;RS1038A;RS0040A;1;1038A;Loznica;2015-07-02;;44.53224;19.214534;122;background;urban;residential/commercial;;;Loznica;86;Slobodana Penezića;t
+21;RS1039A;RS1039A;1;1039A;Zajača;2015-07-02;;44.492586962886;19.2425537109375;;industrial;rural;agricultural/natural;;;Zajača;;;f
+22;RS1041A;RS0041A;1;1041A;Valjevo;2015-07-02;;44.273049;19.899006;181;traffic;urban;residential/commercial;;;Valjevo;90;Vladike Nikolaja bb;t
+23;RS1042A;RS1042A;1;1042A;Bor Krivelj;2015-07-02;;44.137878;22.093133;401;industrial;rural;natural;;;Bor Krivelj;49;Krivelj bb;t
+24;RS1043A;RS1043 ;1;1043;Bor Brezonik;2008-12-01;;44.098064;22.091738;390;industrial;rural;residential/industrial;;;Bor;49;Dečanska bb;t
+25;RS1044A;RS0009A;1;1044A;Bor Gradski park;2009-04-13;;44.076003;22.099514;378;industrial;urban;residential/commercial;;;Bor;49;Đorđa Vajferta bb;t
+26;RS1045A;RS0042A;1;1045A;Bor Institut RIM;2015-07-02;;44.059937;22.101434;389;industrial;urban;residential/commercial;;;Bor;49;Zeleni bulevar bb;t
+27;RS1046A;RS0043A;1;1046A;Kragujevac;2015-07-02;;44.011573;20.925031;175;background;urban;residential/commercial;;;Kragujevac;147;Kosovska bb;t
+28;RS1047A;RS1047A;1;1047A;Kosjerić;2015-07-02;;44.002941;19.905174;416;background;suburban;residential;;;Kosjerić;12;Alekse Popovića;t
+29;RS1048A;RS1048A;1;1048A;Popovac CRH;2015-07-02;;43.910592;21.508391;200;industrial;suburban;residential;;;Popovac;1;Branka Ristića;t
+30;RS1049A;RS0044A;1;1049A;Zaječar;2015-07-02;;43.902072;22.273255;133;background;urban;residential/commercial;;;Zaječar;59;Kurulina bb;t
+31;RS1050A;RS0045A;1;1050A;Čačak ;2015-07-02;;43.893316;20.345513;242;background;urban;residential/commercial;;;Čačak ;73;Kralja Petra I br.1;t
+32;RS1051A;RS1051A;1;1051A;Paraćin;2015-07-02;;43.859649;21.408121;130;background;urban;residential/commercial;;;Paraćin;54;Dr. Dragoljuba Jovanovića 1/a;t
+33;RS1052A;RS1052A;1;1052A;Užice;2015-07-02;;43.854255;19.843181;407;traffic;urban;residential/commercial;;;Užice;76;Omladinska;t
+34;RS1053A;RS1053A;1;1053A;Kraljevo;2015-07-02;;43.728017;20.693602;205;background;urban;residential/commercial;;;Kraljevo;125;Dimitrija Tucovića;t
+35;RS1054A;RS0046A;1;1054A;Kruševac;2015-07-02;;43.58547;21.307667;152;background;urban;residential/commercial;;;Kruševac;127;U Tanta bb;t
+36;RS1055G;RS0005R;1;1055G;Kamenički Vis EMEP;2015-07-02;;43.404011;21.947746;804;background;rural;natural;;;Kamenički Vis ;2;Kamenički vis PGZ poligon RHMZa;t
+37;RS1056A;RS0033A;1;1056A;Niš O.š. Sveti Sava;2015-07-02;;43.322554;21.919025;198;background;urban;residential/commercial;;;Niš;260;Branka Krsmanovića;t
+38;RS1057A;RS0030A;1;1057A;Niš IZJZ Niš;2015-07-02;;43.316552;21.913548;200;traffic;urban;residential/commercial;;;Niš;260;Bulevar Zorana Đinđića 50;t
+39;RS1058A;RS0047A;1;1058A;Kopaonik;2015-07-02;;43.28414;20.802102;1712;background;rural;natural;;;Kopaonik;0;Kopaonik;t
+40;RS1059A;RS0048A;1;1059A;Vranje;2015-07-02;;42.551125;21.896556;473;background;urban;residential/commercial;;;Vranje;76;Partizanska bb;t
+41;RS2001A;RS0024A;2;2001A;Subotica ;2015-07-02;;46.099435;19.670468;;traffic;urban;residential/commercial;;;Subotica ;;;t
+42;RS2003A;RS2003A;2;2003A;Kikinda;2015-07-02;;45.817098;20.44359;;industrial;suburban;residential/industrial;;;Kikinda;;;t
+43;RS2004A;RS0015A;2;2004;Sombor ;2015-07-02;;45.769515;19.114429;;traffic;urban;residential/commercial;;;Sombor ;;;t
+44;RS2005A;RS2005A;2;2005A;Zrenjanin ;2015-07-02;;45.383467;20.389666;;traffic;urban;residential/commercial;;;Zrenjanin ;;;f
+45;RS2006A;RS0014A;2;2006A;Novi Sad Šangaj ;2015-07-02;;45.27237;19.873331;;industrial;suburban;residential/industrial;;;Novi Sad;;;t
+46;RS2011A;RS2011A;2;2011A;Deliblatska peščara;2015-07-02;;44.94919;21.06788;;background;rural;agricultural/natural;;;Deliblatska peščara;;;t
+47;RS2029A;RS2029A;2;2029A;Obedska bara ;2015-07-02;;44.7351;19.986282;;background;rural;natural;;;Obedska bara ;;;t
+48;RS3012A;RS3012A;3;3012A;Beograd Ovča;2015-07-02;;44.884112;20.527552;;background;suburban;residential/commercial;;;Beograd;;;t
+49;RS3016A;RS3016A;3;3016A;Beograd Zemun TB;2015-07-02;;44.835246;20.403299;;background;urban;residential/commercial;;;Beograd;;;t
+50;RS3020A;RS0008A;3;3020A;Beograd Despota Stefana ;2015-07-02;;44.8168146768154;20.4699406027794;;traffic;urban;residential/commercial;;;Beograd;;;t
+51;RS3022A;RS0007A;3;3022A;Beograd Oml. brigada ;2015-07-02;;44.805925;20.398811;;background;urban;residential/commercial;;;Beograd;;;t
+52;RS3024A;RS0027A;3;3024A;Beograd Slavija ;2015-07-02;;44.8029464067589;20.4667648673058;;traffic;urban;residential/commercial;;;Beograd;;;t
+53;RS3031A;RS3031A;3;3031A;Beograd Obrenovac;2015-07-02;;44.6699995831708;20.1973316073418;;background;suburban;residential/commercial;;;Obrenovac;;;t
+54;RS3035A;RS3035A;3;3035A;Beograd Obrenovac Ušće;2015-07-02;;44.629741;20.011135;;industrial;rural;agricultural/natural;;;Beograd Obrenovac Ušće;;;f
+55;RS3040A;RS3040A;3;3040A;Beograd Lazarevac ;2015-07-02;;44.384113;20.265436;;background;suburban;residential/commercial;;;Lazarevac ;;;t
+56;RS4013A;RS0021A;4;4013A;Pančevo Cara Dušana;2015-07-02;;44.870226;20.648069;;traffic;urban;residential/commercial;;;Pančevo;;;t
+57;RS4015A;RS0022A;4;4015A;Pančevo Vatrogasni dom;2015-07-02;;44.8586504491852;20.6491014361382;;industrial;suburban;residential/industrial;;;Pančevo;;;t
+58;RS4017A;RS4017A;4;4017A;Pančevo Vojlovica;2015-07-02;;44.8444518310066;20.669236779213;;industrial;suburban;residential/industrial;;;Pančevo;;;t
+59;RS4012A;RS4021A;4;4021A;Pančevo Starčevo;2015-07-02;;44.808258;20.704773;;industrial;suburban;residential/industrial;;;Pančevo;;;t
+62;RS1099A;RS1099A;1;;Obrenovac deponija;2009-10-01;2012-11-21;44.636952;20.041396;77;industrial;rural;;;;Obrenovac;25;;f
+63;RS1070A;RS1070A;1;;Bor Tir Meteo;2013-05-01;;44.08162;22.101531;;industrial;unknown;industrial;;Industrial combustion;Bor;;;f
+66;RS1071A;RS1071A;1;RS1071A  ;Bor Gr Park 3 - Demo;2015-11-06;;44.066787;22.102243;;industrial;urban;;;;Bor;;;t
+67;RS1080A;1080A  ;1;67;Bor Slatina;2016-05-09;;44.040096;22.162871;;industrial;rural;industrial/agricultural;rural;Production processes;Bor;;;t
+68;RS3028A;RS3028A;3;RS3028A;Beograd ADA;2017-04-01;;44.789343;20.408971;;background;unknown;;;;Beograd;;;f
+69;RS3038A;RS3038A;3;RS3038A;Veliki Crljeni;2016-12-01;;44.4758084725346;20.3089141845703;;industrial;rural;;;;Beograd;;;t
+70;RS1090A;1090A  ;1;1090A;KOSJERIĆ;2017-12-15;;43.998275;19.907228;;unknown;unknown;;;;beograd;;;t
+71;RS1060A;RS0055A;1;RS1060A;Novi Pazar;2020-02-08;;43.139704;20.516353;;background;urban;;;;Novi  Pazar;;;t
